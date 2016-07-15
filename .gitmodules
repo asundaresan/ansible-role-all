@@ -1,0 +1,12 @@
+[submodule "ros"]
+	path = ros
+	url = https://github.com/asundaresan/ansible-role-ros.git
+[submodule "base"]
+	path = base
+	url = https://github.com/asundaresan/ansible-role-base.git
+[submodule "ntp"]
+	path = ntp
+	url = https://github.com/asundaresan/ansible-role-ntp.git
+[submodule "timezone"]
+	path = timezone
+	url = https://github.com/asundaresan/ansible-role-timezone.git
