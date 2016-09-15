@@ -10,3 +10,12 @@
 [submodule "timezone"]
 	path = timezone
 	url = https://github.com/asundaresan/ansible-role-timezone.git
+[submodule "keychain"]
+	path = keychain
+	url = https://github.com/asundaresan/ansible-role-keychain
+[submodule "base_packages"]
+	path = base_packages
+	url = https://github.com/asundaresan/ansible-role-base-packages
+[submodule "base_configure"]
+	path = base_configure
+	url = https://github.com/asundaresan/ansible-role-base-configure
